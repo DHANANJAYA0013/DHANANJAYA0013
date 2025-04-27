@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhananjaya
-- 🌱 I’m currently exploring Computer Science 
+- 🌱 I’m currently exploring World of Computer Science 
 
 <!---
 DHANANJAYA0013/DHANANJAYA0013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
